@@ -32,9 +32,12 @@
                 <input type="text" id="signup_phone" class="form-control" value="" required>
                 </div>
             </div>
+            <div class="mb-3 row text-center">
+                <div class="col-sm-12" id="response"></div>
+            </div>
             <div class="mb-3 row">
-                <div class="btn btn-primary col-sm-2" id="form_signup">Sign Up</div>
-                <div class="col-sm-10" id="response"></div>
+                <div class="col-sm-10"></div>
+                <div class="btn btn-primary float-left col-sm-2" id="form_signup">Sign Up</div>
             </div>
         </div>
     </div>
