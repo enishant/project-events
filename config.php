@@ -1,4 +1,5 @@
 <?php
+
 global $db_server;
 global $db_user;
 global $db_password;
@@ -8,3 +9,6 @@ $db_server   = 'localhost';
 $db_user     = 'root';
 $db_password = 'root';
 $db_name     = 'events';
+
+$app_name = 'Events';
+$base_url = 'http://localhost/events/';
